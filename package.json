@@ -1,0 +1,19 @@
+{
+  "name": "mvp-hackreactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jod929/mvp-hackreactor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jod929/mvp-hackreactor/issues"
+  },
+  "homepage": "https://github.com/Jod929/mvp-hackreactor#readme"
+}
